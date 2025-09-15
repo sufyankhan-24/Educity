@@ -1,4 +1,4 @@
-# EduCity – College Website
+# Edusity – College Website
 
 [Live Demo](https://educity-lyart.vercel.app/)
 
