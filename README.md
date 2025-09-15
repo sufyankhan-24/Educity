@@ -24,15 +24,6 @@ EduCity is a modern, responsive, and interactive college website built with **Vi
 
 ---
 
-## Screenshots
-
-![Home Page](path-to-screenshot.png)  
-![Courses Page](path-to-screenshot.png)  
-
-*(Replace with actual screenshots of your website)*
-
----
-
 ## Tech Stack
 
 - **Frontend:** ReactJS, Vite  
@@ -40,10 +31,3 @@ EduCity is a modern, responsive, and interactive college website built with **Vi
 - **Styling:** TailwindCSS / CSS Modules  
 - **Hosting:** Vercel
 
----
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/sufyankhan-24/Educity.git
