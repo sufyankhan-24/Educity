@@ -8,18 +8,18 @@ Edusity is a modern, responsive, and interactive college website built with **Vi
 
 ## Features
 
-- Fully **responsive** design (mobile, tablet, desktop)
+- Fully **responsive** design (mobile, desktop)
 - Clean and professional **UI/UX**
 - Built using **ReactJS** and **Vite** for high performance
 - Sections included:
   - Home
   - About Us
   - Courses / Departments
-  - Faculty / Team
   - Events / News
+  - Testimonials
   - Contact Form
 - Smooth navigation with **React Router**
-- Modern styling with **CSS Modules / TailwindCSS** (replace if used)
+- Modern styling with **CSS Modules**
 - Easy to extend and customize
 
 ---
@@ -28,6 +28,6 @@ Edusity is a modern, responsive, and interactive college website built with **Vi
 
 - **Frontend:** ReactJS, Vite  
 - **Routing:** React Router  
-- **Styling:** TailwindCSS / CSS Modules  
+- **Styling:** CSS Modules  
 - **Hosting:** Vercel
 
